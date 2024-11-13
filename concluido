@@ -1,0 +1,12 @@
+{
+"flight_id": "CD456",
+"status": "CONCLUIDO",
+"completion_status": "NO_HORARIO",
+"start_date": "2024-08-03",
+"end_date": "2024-08-03",
+"departure_time": "15:30",
+"arrival_time": "19:45",
+"departure_airport": "ORD - O'Hare International Airport",
+"arrival_airport": "MIA - Miami International Airport",
+"airplane_name": "Airbus A320"
+}
